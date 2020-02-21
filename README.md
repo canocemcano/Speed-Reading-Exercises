@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Increase your speed by at least 5 times with the speed reading application.
 
-You can use the [editor on GitHub](https://github.com/canocemcano/Speed-Reading-Exercises/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Speed Reading . FULL 48 LANGUAGES.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want to read very often and quickly - the Speed Reading app is the best for you.
+Discover the world of speed reading.
 
-### Markdown
+### With speed reading :
+- Increase your reading speed at least 5 times.
+- Improve photographic memory.
+- Improve your reading habits (without internal voiceover).
+- Expand your field of view considerably.
+- Increase your concentration ability.
+- Improve your memory, attention and vocabulary.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Improve your eye muscles. Make your eyes more resistant to future eye diseases.
+- Improve visual field with field of vision and visual field application.
+- Learn to save time when reading any text;
 
-```markdown
-Syntax highlighted code block
+Each exercise lasts 60 seconds. Repeat at least 3 times per day.
+Rest your eyes for 60 seconds after each repetition.
+Increase your speed daily (+10).
 
-# Header 1
-## Header 2
-### Header 3
+### Exercises you will find in the Speed Reading app:
+- 7 different text work.
+- 8 different eye exercise.
+- 4 different speed reading exercise.
+- 6 different tones of visual field application.
+- Word search app.
+- Practice reading.
+- Each language (at least 2500 words).
 
-- Bulleted
-- List
+Try using the speed reading app for 3-4 weeks. Your reading speed will increase by 200 - 400 words per minute.
 
-1. Numbered
-2. List
+After 1 - 2 months of speed reading, you will read 1500 - 2000 words per minute.
 
-**Bold** and _Italic_ and `Code` text
+If you're in the final stage of a speed reading application, you will read your books at least 8 times faster.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canocemcano/Speed-Reading-Exercises/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Start the Speed Reading application.
